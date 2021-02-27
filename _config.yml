@@ -23,7 +23,7 @@ header:
     - label: Style Guide
       url: /style-guide/
       style: link
-      icon_class: facebook
+      icon_class: dev
     - label: About
       url: /about/
       style: link
